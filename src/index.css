@@ -1,0 +1,11 @@
+.plantcard {
+  display: flex;
+  flex-direction: column;
+}
+.store {
+  display: grid;
+}
+.plantemoji {
+  font-size: 100pt;
+  border: 2ch;
+}
